@@ -1,0 +1,35 @@
+.jumbotron{
+  background-image: url("../img/jumbotron_1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-height: 100vh ;
+
+}
+h1 ,p {
+  color: white;
+}
+.card p {color : black ;}
+
+.card h5{color :white ;}
+
+
+#sticky-footer{
+  flex-shrink: none ;
+}
+.carousel h2 {
+
+  margin-bottom: 10vh;
+  font-style: 1rem ;
+
+}
+.carousel p {
+
+  color: white
+}
+.carousel img {max-height:}
+
+
+
+body{
+  background-color: purple;
+}
